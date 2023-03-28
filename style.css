@@ -1,0 +1,22 @@
+#welcome{
+    background-image: linear-gradient(to bottom,#ffc1cc 0%,#008080 100%);
+}
+#footer
+{
+    position: sticky;
+    background-color: #ffffff;
+    height:50px;
+    text-align: center;
+    font-family: 'Comfortaa', monospace;
+    font-weight: bold;
+    padding-top: 10px;
+}
+h1{
+    text-align: center;
+    font-family: 'Comfortaa', monospace;
+    font-weight: bold;
+}
+img:hover{
+    border-radius: 65px;
+
+}
